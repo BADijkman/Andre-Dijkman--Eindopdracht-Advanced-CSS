@@ -81,4 +81,8 @@
 }
 .social-media__blogtext {
   margin-left: 4rem;
-}/*# sourceMappingURL=socialmedia.css.map */
+}
+.social-media__blogtext a{
+  color:#fff;
+}
+/*# sourceMappingURL=socialmedia.css.map */
