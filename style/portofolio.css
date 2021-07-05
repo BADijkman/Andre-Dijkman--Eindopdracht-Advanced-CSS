@@ -1,0 +1,15 @@
+.portofolio_grid {
+  width: 100%;
+  margin: 20rem auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 2rem;
+  justify-content: center;
+}
+
+.card__zoom {
+  transition: transform 200ms ease-out;
+}
+.card__zoom:hover {
+  transform: scale(1.05);
+}/*# sourceMappingURL=portofolio.css.map */
